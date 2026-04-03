@@ -57,6 +57,7 @@ El archivo `apps.json` contiene la base de datos de todas las aplicaciones lista
   "featured": true,
   "timestamp": "2026-04-03T12:00:00Z"
 }
+```
  # 🌌 Aura Repo (by JNTX Studio)
 
 > **"Innovación sin dogmas, creación sin permisos."**
