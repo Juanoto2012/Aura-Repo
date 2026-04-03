@@ -57,3 +57,38 @@ El archivo `apps.json` contiene la base de datos de todas las aplicaciones lista
   "featured": true,
   "timestamp": "2026-04-03T12:00:00Z"
 }
+ # 🌌 Aura Repo (by JNTX Studio)
+
+> **"Innovación sin dogmas, creación sin permisos."**
+
+Aura Repo es un repositorio de aplicaciones Android (compatible con el cliente F-Droid) nacido como respuesta al purismo extremo y al elitismo de los repositorios tradicionales. Aquí, el valor de una aplicación se mide por su **utilidad y su impacto**, no por el método purista con el que fue escrita.
+
+---
+
+## 📜 Nuestro Manifiesto (Anti-Elitismo)
+
+En Aura Repo, rompemos con las reglas obsoletas que frenan a los desarrolladores modernos:
+
+1. **Orgullosamente Vibe-Coded:** Entendemos que el tiempo es el recurso más valioso. Si usas IA, prompts o herramientas de nueva generación para crear, aquí eres bienvenido. No juzgamos el origen del código, celebramos el resultado.
+2. **IA & APIs como Estándar:** No marcamos el uso de APIs externas (OpenAI, Groq, OpenRouter, etc.) como "Anti-Features". La conectividad y la inteligencia artificial son el presente, no un error que deba señalarse.
+3. **Respeto al Desarrollador:** No toleramos la "policía del código". Cualquier actitud de acoso, menosprecio o superioridad técnica hacia un creador por sus métodos de trabajo resultará en un **ban inmediato y permanente**.
+4. **Transparencia Real:** Valoramos la honestidad. Si tu app usa IA, lo decimos con orgullo, no como una advertencia de peligro.
+
+---
+
+## 🚀 Cómo añadir Aura Repo a tu dispositivo
+
+Para disfrutar de **Ventarys** y otras aplicaciones de **JNTX Studio** sin restricciones ni etiquetas rojas:
+
+1. Copia la URL de nuestro repositorio:  
+   `https://github.com/Juanoto2012/Aura-Repo`
+2. Abre tu cliente de **F-Droid** o **Aurora Droid**.
+3. Ve a **Ajustes** > **Repositorios** > **Añadir nuevo repositorio (+)**.
+4. Pega la URL y ¡listo! Tendrás acceso a actualizaciones instantáneas.
+
+
+
+---
+
+**¿Eres un desarrollador cansado del acoso en otros repos?**  
+Aura Repo es tu casa. Envía tu app y únete a la resistencia de la creación moderna.
