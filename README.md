@@ -31,7 +31,7 @@ Nuestra misión es ofrecer un repositorio de Android moderno y pragmático que p
 
 ## 😉 Usa nuestro badge personalizado en tu repositorio o sitio web 
 
-<a href="https://aura-repo.infinityfreeapp.com/?appid=your_app_ide">
+<a href="https://aura-repo.infinityfreeapp.com/?appid=your_app_id">
   <img src="https://aura-repo.infinityfreeapp.com/badge.png" alt="Get it on Aura Repo" width="321">
 </a>
 
