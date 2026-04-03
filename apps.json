@@ -1,0 +1,21 @@
+{
+  "id": "com.juanoto2012.openmaps",
+  "name": "OpenMaps",
+  "developer": "JNTX Studio",
+  "short_desc": "Cartografía libre y navegación offline sin rastreadores.",
+  "description": "OpenMaps es una herramienta de mapas de código abierto diseñada para la privacidad. Permite descargar regiones completas para uso offline, búsqueda de puntos de interés (POI) y rutas en tiempo real. Sin telemetría, sin anuncios y 100% vibe-coded.",
+  "version": "1.0.0",
+  "size": "24.5 MB",
+  "license": "GPL-3.0",
+  "iconText": "OM",
+  "icon_url": "https://raw.githubusercontent.com/Juanoto2012/OpenMaps/refs/heads/main/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+  "screenshots": [
+    "https://files.catbox.moe/ku436n.jpg",
+    "https://files.catbox.moe/x1wztr.jpg",
+    "https://files.catbox.moe/jc9fo3.jpg",
+    "https://files.catbox.moe/sj876f.jpg"
+  ],
+  "download_url": "https://github.com/Juanoto2012/OpenMaps/releases/download/V1.1.4/app-fdroid-release.apk",
+  "timestamp": "2026-04-03T12:00:00Z",
+  "featured": true
+}
