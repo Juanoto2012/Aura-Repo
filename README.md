@@ -29,7 +29,7 @@ Este repositorio actúa como el **Backend "Serverless"** de [Aura Repo](https://
 
 Nuestra misión es ofrecer un repositorio de Android moderno y pragmático que permita aplicaciones de IA y conectividad total, manteniendo la seguridad mediante análisis de malware automatizados.
 
-##😉 Usa nuestro badge personalizado en tu repositorio o sitio web 
+## 😉 Usa nuestro badge personalizado en tu repositorio o sitio web 
 
 <a href="https://aura-repo.infinityfreeapp.com/?appid=your_app_ide">
   <img src="https://aura-repo.infinityfreeapp.com/badge.png" alt="Get it on Aura Repo" width="322">
