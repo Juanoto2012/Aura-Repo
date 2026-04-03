@@ -8,7 +8,6 @@
   "size": "64 MB",
   "license": "GPL-3.0",
   "repo_url":  "https://github.com/Juanoto2012/OpenMaps",
-  "category": "adventure",
   "iconText": "OM",
   "icon_url": "https://raw.githubusercontent.com/Juanoto2012/OpenMaps/refs/heads/main/app/src/main/res/mipmap-hdpi/ic_launcher.png",
   "screenshots": [
