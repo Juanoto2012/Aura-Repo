@@ -4,7 +4,7 @@
   "developer": "JNTX Studio",
   "short_desc": "Cartografía libre y navegación offline sin rastreadores.",
   "description": "OpenMaps es una herramienta de mapas de código abierto diseñada para la privacidad. Permite descargar regiones completas para uso offline, búsqueda de puntos de interés (POI) y rutas en tiempo real. Sin telemetría, sin anuncios y 100% vibe-coded.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "size": "64 MB",
   "license": "GPL-3.0",
   "repo_url":  "https://github.com/Juanoto2012/OpenMaps",
