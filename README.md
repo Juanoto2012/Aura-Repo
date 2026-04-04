@@ -93,3 +93,5 @@ Para disfrutar de **Ventarys** y otras aplicaciones de **JNTX Studio** sin restr
 
 **¿Eres un desarrollador cansado del acoso en otros repos?**  
 Aura Repo es tu casa. Envía tu app y únete a la resistencia de la creación moderna.
+
+_Agunos metadatos, iconos e información básica de varias de las aplicaciones de terceros listadas en este repositorio fueron recopilados y adaptados a partir de los registros públicos del proyecto OpenAPK._
