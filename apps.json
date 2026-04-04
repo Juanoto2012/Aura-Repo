@@ -1455,18 +1455,6 @@
     "screenshots": [],
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
-  }
-]
-    "icon_url": "https://github.com/Juanoto2012/Ember/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
-    "screenshots": [
-      "https://github.com/Juanoto2012/Ember/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2026-03-15-07-06-55-163_com.jntx.emberbrowser.jpg?raw=true",
-      "https://github.com/Juanoto2012/Ember/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2026-03-15-07-07-02-329_com.jntx.emberbrowser.jpg?raw=true",
-      "https://github.com/Juanoto2012/Ember/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2026-03-15-07-07-08-919_com.jntx.emberbrowser.jpg?raw=true",
-      "https://github.com/Juanoto2012/Ember/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/Screenshot_2026-03-15-07-08-53-002_com.jntx.emberbrowser.jpg?raw=true"
-    ],
-    "download_url": "https://github.com/Juanoto2012/Ember/releases/download/V1.2/app-release.apk",
-    "timestamp": "2026-02-26T12:00:00Z",
-    "featured": false
   },
   {
     "id": "app.lawnchair",
