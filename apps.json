@@ -51,7 +51,7 @@
     "developer": "LawnchairLauncher",
     "short_desc": "Homescreen based on Launcher3 from AOSP.",
     "description": "Lawnchair brings Pixel Features to the masses. An open-source project developed by volunteers, Lawnchair has quickly become the de-facto standard for Android customization.",
-    "version": "Latest",
+    "version": "15.0.0.20250318",
     "size": "Varies",
     "license": "GPL-3.0",
     "category": "personalizacion",
@@ -59,6 +59,7 @@
     "iconText": "LC",
     "icon_url": "https://www.openapk.net/images/icons/lawnchair-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://github.com/LawnchairLauncher/lawnchair/releases/download/15.0.0.20250318-nightly/Lawnchair.apk",
     "timestamp": "2026-04-01T10:00:00Z",
     "featured": true
   },
@@ -76,6 +77,7 @@
     "iconText": "IC",
     "icon_url": "https://www.openapk.net/images/icons/com-drdisagree-iconify-foss-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify",
     "timestamp": "2026-03-28T09:00:00Z",
     "featured": false
   },
@@ -85,7 +87,7 @@
     "developer": "U. N. Owen",
     "short_desc": "Search focused launcher.",
     "description": "A search-focused, free and open source launcher for Android. Find apps, contacts, files, and web results directly from your home screen.",
-    "version": "Latest",
+    "version": "1.39.3-fdroid",
     "size": "Varies",
     "license": "GPL-3.0",
     "category": "personalizacion",
@@ -93,6 +95,7 @@
     "iconText": "KV",
     "icon_url": "https://www.openapk.net/images/icons/Kvaesitso-apk.jpeg",
     "screenshots": [],
+    "download_url": "https://f-droid.org/repo/de.mm20.launcher2.release_2026012400.apk",
     "timestamp": "2026-03-20T08:00:00Z",
     "featured": false
   },
@@ -102,7 +105,7 @@
     "developer": "Roman Nurik and Ian Lake",
     "short_desc": "Live wallpaper of famous art.",
     "description": "Muzei is a live wallpaper that gently refreshes your home screen each day with famous works of art. It also recedes into the background to keep your icons and widgets in the spotlight.",
-    "version": "Latest",
+    "version": "3.7.0-alpha01",
     "size": "Varies",
     "license": "Apache-2.0",
     "category": "personalizacion",
@@ -110,6 +113,7 @@
     "iconText": "MZ",
     "icon_url": "https://www.openapk.net/images/icons/muzei-apk.webp",
     "screenshots": [],
+    "download_url": "https://f-droid.org/repo/net.nurik.roman.muzei_370003.apk",
     "timestamp": "2026-03-15T12:00:00Z",
     "featured": true
   },
@@ -127,6 +131,7 @@
     "iconText": "KS",
     "icon_url": "https://www.openapk.net/images/icons/kiss-launcher-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/fr.neamar.kiss/",
     "timestamp": "2026-03-10T14:00:00Z",
     "featured": false
   },
@@ -144,6 +149,7 @@
     "iconText": "WY",
     "icon_url": "https://www.openapk.net/images/icons/wall-you-android-wallpaper-changer.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.bnyro.wallpaper/",
     "timestamp": "2026-04-02T11:00:00Z",
     "featured": false
   },
@@ -161,6 +167,7 @@
     "iconText": "AD",
     "icon_url": "https://www.openapk.net/images/icons/arcticons-dark-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.donnnno.arcticons/",
     "timestamp": "2026-03-05T16:00:00Z",
     "featured": false
   },
@@ -178,6 +185,7 @@
     "iconText": "ST",
     "icon_url": "https://www.openapk.net/images/icons/stario-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/app.stario.launcher",
     "timestamp": "2026-03-22T09:30:00Z",
     "featured": false
   },
@@ -195,6 +203,7 @@
     "iconText": "DL",
     "icon_url": "https://www.openapk.net/images/icons/delta-icon-pack-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/website.leifs.delta.foss/",
     "timestamp": "2026-02-28T15:00:00Z",
     "featured": false
   },
@@ -212,6 +221,7 @@
     "iconText": "SP",
     "icon_url": "https://www.openapk.net/images/icons/smartspacer.jpg",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.smartspacer",
     "timestamp": "2026-03-18T10:20:00Z",
     "featured": false
   },
@@ -229,6 +239,7 @@
     "iconText": "EL",
     "icon_url": "https://www.openapk.net/images/icons/easylauncher-minimal-launcher-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/app.easy.launcher",
     "timestamp": "2026-03-25T11:45:00Z",
     "featured": false
   },
@@ -246,6 +257,7 @@
     "iconText": "CB",
     "icon_url": "https://www.openapk.net/images/icons/ic_launcher.jpeg",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.colorblendr",
     "timestamp": "2026-03-01T14:15:00Z",
     "featured": false
   },
@@ -263,6 +275,7 @@
     "iconText": "CH",
     "icon_url": "https://www.openapk.net/images/icons/chronal-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/dev.cognitivity.chronal",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -280,6 +293,7 @@
     "iconText": "MA",
     "icon_url": "https://www.openapk.net/images/icons/makeacopy-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/de.schliweb.makeacopy/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -297,6 +311,7 @@
     "iconText": "LA",
     "icon_url": "https://www.openapk.net/images/icons/lalumo-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.lalumo.app",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -314,6 +329,7 @@
     "iconText": "SS",
     "icon_url": "https://www.openapk.net/images/icons/shots-studio-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.ansah.shots_studio",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -331,6 +347,7 @@
     "iconText": "WA",
     "icon_url": "https://www.openapk.net/images/icons/wifi-audio-streaming-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.cuscus.wifiaudiostreaming",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -348,6 +365,7 @@
     "iconText": "VM",
     "icon_url": "https://www.openapk.net/images/default-icon.svg",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/moe.chensi.volume",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -365,6 +383,7 @@
     "iconText": "VM",
     "icon_url": "https://www.openapk.net/images/icons/vmpk-for-android-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/io.github.pedrolcl.vmpk/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -382,6 +401,7 @@
     "iconText": "UM",
     "icon_url": "https://www.openapk.net/images/icons/umihi-music-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/ca.ilianokokoro.umihi.music",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -399,6 +419,7 @@
     "iconText": "SQ",
     "icon_url": "https://www.openapk.net/images/icons/squeezelite-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/org.lyrion.squeezelite/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -416,6 +437,7 @@
     "iconText": "PO",
     "icon_url": "https://www.openapk.net/images/icons/playondlna-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.github.scovillo.playondlna",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -433,6 +455,7 @@
     "iconText": "MC",
     "icon_url": "https://www.openapk.net/images/icons/media-collection-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/net.forestany.mediacollection",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -450,6 +473,7 @@
     "iconText": "PP",
     "icon_url": "https://www.openapk.net/images/icons/pixelplay-android-music-player.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.theveloper.pixelplay",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -467,6 +491,7 @@
     "iconText": "LL",
     "icon_url": "https://www.openapk.net/images/icons/libre-librivox-listener-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.gitlab.libre_librivox_listener",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -484,6 +509,7 @@
     "iconText": "RE",
     "icon_url": "https://www.openapk.net/images/icons/recordequalizer-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.sb.recordequalizer",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -501,6 +527,7 @@
     "iconText": "SA",
     "icon_url": "https://www.openapk.net/images/icons/sapfir-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/org.codeberg.nykula.sapfir",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -518,6 +545,7 @@
     "iconText": "NT",
     "icon_url": "https://www.openapk.net/images/icons/noutube-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/jp.nonbili.noutube",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -535,6 +563,7 @@
     "iconText": "LY",
     "icon_url": "https://www.openapk.net/images/icons/lyrics-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/sexy.lyrics/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -552,6 +581,7 @@
     "iconText": "ED",
     "icon_url": "https://www.openapk.net/images/icons/enigmadroid-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.github.deprec8.enigmadroid",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -569,6 +599,7 @@
     "iconText": "SF",
     "icon_url": "https://www.openapk.net/images/icons/simple-frame-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.louissimonmcnicoll.simpleframe",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -586,6 +617,7 @@
     "iconText": "ZX",
     "icon_url": "https://www.openapk.net/images/icons/zxtune-chiptunes-player-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/app.zxtune/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -603,6 +635,7 @@
     "iconText": "RH",
     "icon_url": "https://www.openapk.net/images/icons/rhythm-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/chromahub.rhythm.app",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -620,6 +653,7 @@
     "iconText": "IU",
     "icon_url": "https://www.openapk.net/images/icons/immich-uploader-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.exner.tools.immichuploader/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -637,6 +671,7 @@
     "iconText": "TG",
     "icon_url": "https://www.openapk.net/images/icons/tulsi-gallery-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.aks_labs.tulsi",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -654,6 +689,7 @@
     "iconText": "VI",
     "icon_url": "https://www.openapk.net/images/icons/vivi-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.vivi.vivimusic",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -671,6 +707,7 @@
     "iconText": "DA",
     "icon_url": "https://www.openapk.net/images/icons/disableaudiofocus-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.github.auag0.disableaudiofocus",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -688,6 +725,7 @@
     "iconText": "PA",
     "icon_url": "https://www.openapk.net/images/icons/panoramax-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/app.panoramax",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -697,15 +735,21 @@
     "developer": "Team NewPipe",
     "short_desc": "Lightweight app to watch and listen to media.",
     "description": "Lightweight app that lets you watch and listen to media from various platforms.",
-    "version": "Latest",
+    "version": "0.28.4",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "GPL-3.0",
     "category": "entretenimiento",
     "repo_url": "https://github.com/TeamNewPipe/NewPipe",
     "iconText": "NP",
-    "icon_url": "https://www.openapk.net/images/icons/newpipe-apk-for-android.png",
-    "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "icon_url": "https://f-droid.org/repo/org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png",
+    "screenshots": [
+      "https://f-droid.org/repo/org.schabi.newpipe/en-US/phoneScreenshots/shot_01.png",
+      "https://f-droid.org/repo/org.schabi.newpipe/en-US/phoneScreenshots/shot_02.png",
+      "https://f-droid.org/repo/org.schabi.newpipe/en-US/phoneScreenshots/shot_03.png",
+      "https://f-droid.org/repo/org.schabi.newpipe/en-US/phoneScreenshots/shot_04.png"
+    ],
+    "download_url": "https://f-droid.org/repo/org.schabi.newpipe_1009.apk",
+    "timestamp": "2026-03-10T12:00:00Z",
     "featured": true
   },
   {
@@ -713,16 +757,17 @@
     "name": "Kotatsu",
     "developer": "Koitharu",
     "short_desc": "Free and open source manga reader.",
-    "description": "Kotatsu is a free and open source manga reader for Android.",
-    "version": "Latest",
-    "size": "Varies",
-    "license": "Open Source",
+    "description": "Kotatsu is a free and open source manga reader for Android. Note: development has stopped as of late 2025. Consider Futon (io.github.landwarderer.futon) as an actively maintained fork.",
+    "version": "9.4.1",
+    "size": "13 MiB",
+    "license": "GPL-3.0",
     "category": "entretenimiento",
     "repo_url": "https://github.com/KotatsuApp/Kotatsu",
     "iconText": "KO",
     "icon_url": "https://www.openapk.net/images/icons/kotatsu-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/org.koitharu.kotatsu_1033.apk",
+    "timestamp": "2025-11-13T12:00:00Z",
     "featured": false
   },
   {
@@ -731,7 +776,7 @@
     "developer": "Kingkor Roy Tirtho",
     "short_desc": "Lightweight Spotify client without Premium.",
     "description": "Lightweight & resource friendly Spotify client without requiring Spotify Premium.",
-    "version": "Latest",
+    "version": "5.1.1",
     "size": "Varies",
     "license": "Open Source",
     "category": "musica",
@@ -739,7 +784,8 @@
     "iconText": "SP",
     "icon_url": "https://www.openapk.net/images/icons/spotube-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/oss.krtirtho.spotube_44.apk",
+    "timestamp": "2026-02-25T12:00:00Z",
     "featured": true
   },
   {
@@ -756,6 +802,7 @@
     "iconText": "YT",
     "icon_url": "https://www.openapk.net/images/icons/ytdlnis-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.deniscerri.ytdl",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -773,6 +820,7 @@
     "iconText": "SM",
     "icon_url": "https://www.openapk.net/images/icons/simpmusic-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.maxrave.simpmusic",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -782,7 +830,7 @@
     "developer": "NullPointerException",
     "short_desc": "Alternative Android streaming front-end.",
     "description": "An alternative Android streaming front-end of Bilibili, NicoNico, Youtube & more.",
-    "version": "Latest",
+    "version": "4.8.1",
     "size": "Varies",
     "license": "Open Source",
     "category": "entretenimiento",
@@ -790,7 +838,8 @@
     "iconText": "PP",
     "icon_url": "https://www.openapk.net/images/icons/animepipe-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/InfinityLoop1309.NewPipeEnhanced_109404.apk",
+    "timestamp": "2026-03-09T12:00:00Z",
     "featured": false
   },
   {
@@ -799,15 +848,16 @@
     "developer": "Team LibreTube",
     "short_desc": "Alternative YouTube frontend built with Piped.",
     "description": "Alternative YouTube frontend for Android built with Piped.",
-    "version": "Latest",
+    "version": "0.30.0",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "GPL-3.0",
     "category": "entretenimiento",
     "repo_url": "https://github.com/libre-tube/LibreTube",
     "iconText": "LT",
     "icon_url": "https://www.openapk.net/images/icons/libretube-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/com.github.libretube_65.apk",
+    "timestamp": "2026-01-29T12:00:00Z",
     "featured": false
   },
   {
@@ -824,6 +874,7 @@
     "iconText": "ST",
     "icon_url": "https://www.openapk.net/images/icons/skytube-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/free.rm.skytube.oss/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -841,6 +892,7 @@
     "iconText": "KA",
     "icon_url": "https://www.openapk.net/images/icons/kazumi-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.predidit.kazumi",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -858,6 +910,7 @@
     "iconText": "ML",
     "icon_url": "https://www.openapk.net/images/icons/metrolist-android.webp",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -875,6 +928,7 @@
     "iconText": "MU",
     "icon_url": "https://www.openapk.net/images/icons/Musify-apk.jpeg",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.gokadzev.musify/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -892,6 +946,7 @@
     "iconText": "HM",
     "icon_url": "https://www.openapk.net/images/icons/harmonymusic-apk.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.anandnet.harmonymusic",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -901,7 +956,7 @@
     "developer": "Thibault Deckers",
     "short_desc": "Gallery and metadata explorer.",
     "description": "Gallery and metadata explorer.",
-    "version": "Latest",
+    "version": "1.13.12",
     "size": "Varies",
     "license": "Open Source",
     "category": "fotografia",
@@ -909,7 +964,8 @@
     "iconText": "AL",
     "icon_url": "https://www.openapk.net/images/icons/aves-libre-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/deckers.thibault.aves.libre_16304.apk",
+    "timestamp": "2025-12-24T12:00:00Z",
     "featured": false
   },
   {
@@ -926,6 +982,7 @@
     "iconText": "OT",
     "icon_url": "https://www.openapk.net/images/icons/outertune-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.dd3boh.outertune",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -943,6 +1000,7 @@
     "iconText": "XT",
     "icon_url": "https://www.openapk.net/images/icons/xtra-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.github.andreyasadchy.xtra",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -952,7 +1010,7 @@
     "developer": "Alex Tran",
     "short_desc": "Client app for self-hostable Immich Server.",
     "description": "This is a client app for the self-hostable Immich Server.",
-    "version": "Latest",
+    "version": "2.5.6",
     "size": "Varies",
     "license": "Open Source",
     "category": "fotografia",
@@ -960,7 +1018,8 @@
     "iconText": "IM",
     "icon_url": "https://www.openapk.net/images/icons/immich-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/app.alextran.immich_3037.apk",
+    "timestamp": "2026-02-11T12:00:00Z",
     "featured": false
   },
   {
@@ -969,7 +1028,7 @@
     "developer": "Prismriver Media",
     "short_desc": "Listen to music and watch videos.",
     "description": "Listen to music and watch videos with the powerful mpv engine.",
-    "version": "Latest",
+    "version": "2026-03-22-release",
     "size": "Varies",
     "license": "Open Source",
     "category": "entretenimiento",
@@ -977,7 +1036,8 @@
     "iconText": "MP",
     "icon_url": "https://www.openapk.net/images/icons/mpv-android-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/is.xyz.mpv_45.apk",
+    "timestamp": "2026-03-24T12:00:00Z",
     "featured": false
   },
   {
@@ -986,15 +1046,16 @@
     "developer": "Fossify",
     "short_desc": "Gallery with Photo editor.",
     "description": "Gallery with Photo editor. No Ads, Open-source, Private. No strings attached.",
-    "version": "Latest",
+    "version": "1.13.1",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "GPL-3.0",
     "category": "fotografia",
     "repo_url": "https://github.com/FossifyOrg/Gallery",
     "iconText": "FG",
     "icon_url": "https://www.openapk.net/images/icons/fossify-gallery-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/org.fossify.gallery_28.apk",
+    "timestamp": "2026-02-18T12:00:00Z",
     "featured": false
   },
   {
@@ -1003,15 +1064,16 @@
     "developer": "Jellyfin",
     "short_desc": "Mobile client for Jellyfin.",
     "description": "Mobile client for Jellyfin, the free software media system.",
-    "version": "Latest",
-    "size": "Varies",
-    "license": "Open Source",
+    "version": "2.6.3",
+    "size": "18 MiB",
+    "license": "GPL-2.0",
     "category": "entretenimiento",
     "repo_url": "https://github.com/jellyfin/jellyfin-android",
     "iconText": "JF",
     "icon_url": "https://www.openapk.net/images/icons/jellyfin-your-media-in-your-hands-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/org.jellyfin.mobile_2060399.apk",
+    "timestamp": "2025-06-19T12:00:00Z",
     "featured": false
   },
   {
@@ -1019,16 +1081,17 @@
     "name": "VLC",
     "developer": "VideoLAN",
     "short_desc": "The best video and music player.",
-    "description": "The best video and music player. Fast and “just works”, plays any file.",
-    "version": "Latest",
+    "description": "The best video and music player. Fast and \"just works\", plays any file.",
+    "version": "3.7.0",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "GPL-2.0",
     "category": "entretenimiento",
     "repo_url": "https://code.videolan.org/videolan/vlc-android",
     "iconText": "VLC",
     "icon_url": "https://www.openapk.net/images/icons/vlc-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/org.videolan.vlc_13070008.apk",
+    "timestamp": "2026-02-24T12:00:00Z",
     "featured": true
   },
   {
@@ -1045,6 +1108,7 @@
     "iconText": "MSM",
     "icon_url": "https://www.openapk.net/images/icons/msm-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.example.msm",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1062,6 +1126,7 @@
     "iconText": "PA",
     "icon_url": "https://www.openapk.net/images/icons/pagan-android-music.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.qfs.pagan/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1079,6 +1144,7 @@
     "iconText": "PC",
     "icon_url": "https://www.openapk.net/images/icons/pocket-cast-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/au.com.shiftyjelly.pocketcasts",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1090,12 +1156,13 @@
     "description": "Ente is an end-to-end encrypted photo storage app.",
     "version": "Latest",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "AGPL-3.0",
     "category": "fotografia",
     "repo_url": "https://github.com/ente-io/ente",
     "iconText": "EP",
     "icon_url": "https://www.openapk.net/images/icons/ente-photos.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.ente.photos",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1113,6 +1180,7 @@
     "iconText": "PH",
     "icon_url": "https://www.openapk.net/images/icons/phocid-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/org.sunsetware.phocid/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1124,12 +1192,13 @@
     "description": "Video player for local/network content with subtitle/metadata download support.",
     "version": "Latest",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "Apache-2.0",
     "category": "entretenimiento",
     "repo_url": "https://github.com/nova-video-player/aos-AVP",
     "iconText": "NV",
     "icon_url": "https://www.openapk.net/images/icons/nova-video-player-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/org.courville.nova/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1147,6 +1216,7 @@
     "iconText": "AM",
     "icon_url": "https://www.openapk.net/images/icons/anymex-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.ryan.anymex",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1164,6 +1234,7 @@
     "iconText": "SH",
     "icon_url": "https://www.openapk.net/images/icons/showly-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly2",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1181,6 +1252,7 @@
     "iconText": "BL",
     "icon_url": "https://www.openapk.net/images/icons/bloomee-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/ls.bloomee.musicplayer",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1198,6 +1270,7 @@
     "iconText": "JP",
     "icon_url": "https://www.openapk.net/images/icons/just-video-player-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.brouken.player/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1215,6 +1288,7 @@
     "iconText": "MS",
     "icon_url": "https://www.openapk.net/images/icons/musicsearch-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/io.github.lydavid.musicsearch",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1224,15 +1298,16 @@
     "developer": "Alexander Capehart",
     "short_desc": "A simple, rational music player.",
     "description": "A simple, rational music player.",
-    "version": "Latest",
+    "version": "4.0.10",
     "size": "Varies",
-    "license": "Open Source",
+    "license": "GPL-3.0",
     "category": "musica",
     "repo_url": "https://github.com/OxygenCobalt/Auxio",
     "iconText": "AU",
     "icon_url": "https://www.openapk.net/images/icons/auxio-apk-for-android.png",
     "screenshots": [],
-    "timestamp": "2026-04-03T12:00:00Z",
+    "download_url": "https://f-droid.org/repo/org.oxycblt.auxio_69.apk",
+    "timestamp": "2025-11-07T12:00:00Z",
     "featured": false
   },
   {
@@ -1249,6 +1324,7 @@
     "iconText": "SS",
     "icon_url": "https://www.openapk.net/images/icons/smartscan-icon.png",
     "screenshots": [],
+    "download_url": "https://f-droid.org/packages/com.fpf.smartscan/",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   },
@@ -1266,6 +1342,7 @@
     "iconText": "LP",
     "icon_url": "https://www.openapk.net/images/icons/photos-apk-for-android.png",
     "screenshots": [],
+    "download_url": "https://apt.izzysoft.de/fdroid/index/apk/com.kaii.photos",
     "timestamp": "2026-04-03T12:00:00Z",
     "featured": false
   }
